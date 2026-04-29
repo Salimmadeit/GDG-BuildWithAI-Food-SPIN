@@ -1,0 +1,6 @@
+{
+  "name": "UNILAG Food Spinner",
+  "description": "A physics-based interactive spinning wheel to help choose where to eat at UNILAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
